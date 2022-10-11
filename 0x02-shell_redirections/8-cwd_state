@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ls > ls_cwa_content
+ls -la > ls_cwa_content
